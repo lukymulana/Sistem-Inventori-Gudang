@@ -1,0 +1,8 @@
+
+     | Mie Sedap                   20          Bungkus  |
+     | Taro                       100          Bungkus  |
+     | Susu Basi                   12          Botol    |
+     | Sarden                       2          Kaleng   |
+     | Twist                        1          Pack     |
+     | Sarden                       2          Buah     |
+     | Minyak                       3          Buah     |

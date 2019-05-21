@@ -1,0 +1,4 @@
+
+     | Pulpen                                 2         |
+     | Penghapus                             20         |
+     | Karton A4                             10         |
